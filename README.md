@@ -35,6 +35,14 @@
 <br/>
 <br/>
 
+## Connect with me:
+<p align="left">
+  
+<a href = "https://www.linkedin.com/in/mmesoma-ekwunife/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/mmesoekwunife"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_mesomah__/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 <!---
 Ekwunife/Ekwunife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
