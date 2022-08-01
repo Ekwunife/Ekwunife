@@ -1,10 +1,10 @@
-# Hi, I’m Mmesoma 👋🏾 👩🏾‍💻
+## Hi, I’m Mmesoma 👋🏾 👩🏾‍💻
 - 👀 I’m interested in data science
 - 🌱 I’m currently working on data-related projects 
 - 💞️ I’m looking to upskill and collaborate on data science and machine learning projects
 - 📫 You can reach me @loveekwunife@gmail.com
 
-## 🚀 Languages and Tools:
+### 🚀 Languages and Tools:
 
 <p align="left">
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
@@ -18,7 +18,7 @@
 </p>
 
 
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 <br/>
    <a href="https://github.com/mmesoekwunife/github-readme-stats"><img alt="Mmesoma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmesoekwunife&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -35,7 +35,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+### Connect with me:
 <p align="left">
   
 <a href = "https://www.linkedin.com/in/mmesoma-ekwunife/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
