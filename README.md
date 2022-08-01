@@ -1,5 +1,5 @@
 ## Hi, I’m Mmesoma 👋🏾 👩🏾‍💻
-- 👀 I’m interested in data science
+- 👀 I’m interested in data analytics.
 - 🌱 I’m currently working on data-related projects 
 - 💞️ I’m looking to upskill and collaborate on data science and machine learning projects
 - 📫 You can reach me @loveekwunife@gmail.com
